@@ -11,7 +11,7 @@ const initialState: ContatoState = {
       nome: 'Rafael Silva Santos',
       email:'ssrafa.2014@gmail.com',
       telefone: '(11) 94805-9983',
-      fotoperfil: 'https://cdn-icons-png.flaticon.com/512/4675/4675159.png',
+      fotoperfil: 'https://media.licdn.com/dms/image/D4D03AQGnNZhqiPqXDA/profile-displayphoto-shrink_800_800/0/1695396507672?e=1721865600&v=beta&t=sXUmCjy27b77nk7BLxcgA524QPl_kTap0R5LeyaDU4U',
       id: 1
     },
     {
