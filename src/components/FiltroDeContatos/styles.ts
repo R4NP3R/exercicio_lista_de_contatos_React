@@ -1,9 +1,6 @@
 import styled from "styled-components";
-import { Props } from ".";
 
-type CleanProps = Omit<Props, 'quantidade' | 'tipo'>
-
-export const SeparacaoDeContatos = styled.div<CleanProps>`
+export const SeparacaoDeContatos = styled.div`
   background-color: #e8f0fe;
   border-radius: 0px 25px 25px 0px;
   font-size: 16px;
