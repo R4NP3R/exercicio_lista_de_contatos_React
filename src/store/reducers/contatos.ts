@@ -10,7 +10,7 @@ const initialState: ContatoState = {
     {
       nome: 'Rafael Silva Santos',
       email:'ssrafa.2014@gmail.com',
-      telefone: '(11) 94212-5432',
+      telefone: '(11) 94805-9983',
       fotoperfil: 'https://cdn-icons-png.flaticon.com/512/4675/4675159.png',
       id: 1
     },
